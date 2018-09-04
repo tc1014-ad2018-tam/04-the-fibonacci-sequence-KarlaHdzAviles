@@ -15,7 +15,7 @@ int main() {
     int next;
     int k;
 
-    // El usuario debe introducir el numero de terminos que quiere de la serie fibonacci
+    // El usuario debe introducir el numero de terminos que quiere de la serie fibonacci.
     printf("Welcome, i will help you with fibonacci sequence, enter the number of terms:\n");
     scanf("%d", &n);
 
